@@ -1,23 +1,26 @@
-# 👋 Olá, eu sou o Bezalyel Silva!
+# 👋 Hi, I'm Bezalyel Silva!
 
-**Analista de Suporte Pleno | Desenvolvedor Web | Automação N8N | Criador de Conteúdo**
+**Mid-level Support Analyst | Software Developer | Content Creator**
 
-Atualmente na **Teks Software** (ERP em nuvem para varejo, food service e postos), onde desenvolvo sites institucionais, automações e conteúdo estratégico.
+Currently, my main role is **Mid-level Support Analyst** at **Teks Software** (Cloud ERP for retail, food service, and gas stations), where I handle complex technical issues, infrastructure, and ensure system stability for our clients.
 
-### 🚀 O que você vai encontrar aqui
-- Portfólio completo de desenvolvimento web (HTML, CSS, JS puro + GitHub Pages)
-- Projetos de automação N8N (em breve)
-- Conteúdo de social media e edição de vídeo (Belflow)
-- Projetos acadêmicos da UFC (Design Digital)
+Beyond my daily support duties, I am a tech enthusiast and a continuous learner. I build **software and web development projects**, explore **process automations**, and lead **video marketing & content strategy** as parallel initiatives and freelance work.
 
-### 📌 Projeto em destaque
-**[Software Site-Teks](https://github.com/bezalyel-dev/Site-Teks-Software)** — Site institucional completo que desenvolvi do zero para a Teks Software.
+### 🚀 What you will find here
 
-### 🌐 Links importantes
-- 💼 **LinkedIn** → [linkedin.com/in/bezalyelsilva](https://br.linkedin.com/in/bezalyelsilva)
-- 📧 **E-mail** → bezalyelsilva@gmail.com
-- 🌐 **Site oficial Teks** → [tekssoftware.com.br](https://tekssoftware.com.br)
+* A portfolio of personal and freelance projects developed by me.
+* Solutions and automations built to solve real-world problems.
+* My journey as a continuous tech student exploring new technologies.
+
+### 📌 Featured Project
+
+**[Software Site-Teks](link-do-repositorio)** — A complete institutional website I developed from scratch as a special side-project for Teks Software.
+
+### 🌐 Let's connect!
+
+* 💼 **LinkedIn** → [linkedin.com/in/bezalyelsilva](https://linkedin.com/in/bezalyelsilva)
+* ✉️ **E-mail** → bezalyelsilva@gmail.com
+* 💻 **Teks Official Website** → [tekssoftware.com.br](https://tekssoftware.com.br)
 
 ---
-
-**Quer ver meu trabalho completo?** → [Acessar LinkedIn](https://br.linkedin.com/in/bezalyelsilva)
+**Want to see my full professional background?** → [Check out my LinkedIn](https://linkedin.com/in/bezalyelsilva)
