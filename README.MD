@@ -14,7 +14,7 @@ Beyond my daily support duties, I am a tech enthusiast and a continuous learner.
 
 ### 📌 Featured Project
 
-**[Software Site-Teks](link-do-repositorio)** — A complete institutional website I developed from scratch as a special side-project for Teks Software.
+**[Software Site-Teks](https://github.com/bezalyel-dev/Site-Teks-Software)** — A complete institutional website I developed from scratch as a special side-project for Teks Software.
 
 ### 🌐 Let's connect!
 
