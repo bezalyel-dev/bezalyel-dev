@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Bezalyel Silva!
 
-**Mid-level Support Analyst | Software Developer | Content Creator**
+**Support Analyst (Mid-Level) | Software Developer | Content Creator**
 
-Currently, my main role is **Mid-level Support Analyst** at **Teks Software** (Cloud ERP for retail, food service, and gas stations), where I handle complex technical issues, infrastructure, and ensure system stability for our clients.
+Currently, my main role is **Support Analyst (Mid-Level)** at **Teks Software** (Cloud ERP for retail, food service, and gas stations), where I handle complex technical issues, infrastructure, and ensure system stability for our clients.
 
 Beyond my daily support duties, I am a tech enthusiast and a continuous learner. I build **software and web development projects**, explore **process automations**, and lead **video marketing & content strategy** as parallel initiatives and freelance work.
 
